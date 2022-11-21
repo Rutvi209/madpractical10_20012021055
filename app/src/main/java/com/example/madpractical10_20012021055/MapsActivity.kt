@@ -1,9 +1,9 @@
-package com.example.madpractical10_21012022022
+package com.example.madpractical10_20012021055
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.example.madpractical10_21012022022.databinding.ActivityMapsBinding
+import com.example.madpractical10_20012021055.databinding.ActivityMapsBinding
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.OnMapReadyCallback

@@ -1,9 +1,9 @@
-package com.example.madpractical10_21012022022
+package com.example.madpractical10_20012021055
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.core.view.WindowCompat
-import com.example.madpractical10_21012022022.databinding.ActivityMainBinding
+import com.example.madpractical10_20012021055.databinding.ActivityMainBinding
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

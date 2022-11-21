@@ -1,11 +1,11 @@
-package com.example.madpractical10_21012022022
+package com.example.madpractical10_20012021055
 
 import android.content.Context
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.madpractical10_21012022022.databinding.PersonItemViewBinding
+import com.example.madpractical10_20012021055.databinding.PersonItemViewBinding
 import java.io.Serializable
 
 class PersonAdapter (private val context: Context, private val array:ArrayList<Person>):
